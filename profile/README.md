@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1600x400?text=Credaxis+Banner" width="100%" alt="Credaxis Logo Banner">
+  <img src="https://github.com/Credaxis/.github/blob/main/Gemini_Generated_Image_rlyfa8rlyfa8rlyf%20(2).png?text=Credaxis+Banner" width="100%" alt="Credaxis Logo Banner">
 </p>
 
 # Welcome to Credaxis 🎓🔗
